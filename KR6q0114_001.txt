@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:26.123903
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 17:08
 #+TITLE: 達磨大師悟性論
 #+PROPERTY: CBETA_ID X63n1219
 #+PROPERTY: ID KR6q0114
@@ -10,7 +10,7 @@
 #+PROPERTY: LASTPB <pb:KR6q0114_X_001-0005c> 
 #+PROPERTY: JUAN 1
 
-達磨大師悟性論No.1219¶
+* 達磨大師悟性論No.1219¶
 
  達磨大師悟性論¶
 ¶
@@ -237,12 +237,12 @@
 　妙理玄奧非心測
 　不用尋逐令疲極¶
 　若能無念即真求
-　更若有求還不識
+　更若有求還不識」
 #+END_VERSE
-」¶
+¶
 ¶
 達磨大師悟性論(終)¶
 
-真性頌¶
+* 真性頌¶
 
 <img:>
